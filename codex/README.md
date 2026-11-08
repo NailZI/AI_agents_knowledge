@@ -3,7 +3,7 @@
 Взаимодействие: Ссылается на codex/AGENTS.md, codex/skills/ и shared/; не меняет Claude-файлы в корне репозитория.
 Параметры: Предполагает установку в ~/.codex для пользовательского профиля Codex.
 Created: 2026-07-13
-Modified: 2026-07-13
+Modified: 2026-11-08
 -->
 
 # Codex
@@ -14,6 +14,7 @@ Modified: 2026-07-13
 
 - `AGENTS.md` — глобальные правила для Codex.
 - `skills/` — skills для `adversarial-review`, `grill-me`, `runbook`, `secret-hygiene`, `project-structure`, `scaffold`.
+- Упрощённый регламент Worklog: [TZ_Worklog_Simple.md](../TZ_Worklog_Simple.md). Глобальный `AGENTS.md` содержит только правила подключения; при использовании Worklog читай полное ТЗ в репозитории.
 
 ## Установка
 

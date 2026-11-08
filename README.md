@@ -13,6 +13,7 @@
 - Claude: [claude/README.md](claude/README.md)
 - Codex: [codex/README.md](codex/README.md)
 - Shared: [shared/README.md](shared/README.md)
+- Упрощённый Worklog: [TZ_Worklog_Simple.md](TZ_Worklog_Simple.md)
 
 ## Принцип разделения
 
